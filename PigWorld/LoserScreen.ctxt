@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LoserScreen
+comment0.text=\r\n\ What\ the\ player\ sees\ when\ they\ win\ the\ game.\r\n
+comment1.params=
+comment1.target=LoserScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameOverScreen.\r\n
+comment2.params=message\ x\ y
+comment2.target=void\ showTextWithBigRedFont(java.lang.String,\ int,\ int)
+comment2.text=\r\n\ showTextWithBigBlackFont\ -\ describes\ how\ the\ "Game\ Over\!"\ text\ should\ look.\r\n
+numComments=3

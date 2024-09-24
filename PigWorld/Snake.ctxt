@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Snake
+comment0.text=\r\n\ The\ actor\ that\ kills\ the\ payable\ actor\ Pig.\r\n
+comment1.params=
+comment1.target=Snake()
+comment1.text=\r\n\ Snake\ -\ makes\ the\ snake\ actor\ turn\ in\ random\ directions\ for\ the\ moveAround\ methode.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Lobster\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ moveAround()
+comment3.text=\r\n\ moveAround\ -\ makes\ the\ snake\ actor\ move\ in\ random\ directions.\r\n
+comment4.params=
+comment4.target=boolean\ isGameOver()
+comment4.text=\r\n\ isGameOver\ -\ checks\ if\ all\ the\ Pig\ actor\ is\ gone.\r\n
+comment5.params=
+comment5.target=void\ transitionToLoserScreen()
+comment5.text=\r\n\ transitionToLoserScreen\ -\ transitions\ from\ PigWorld\ to\ LoserScreen.\r\n
+comment6.params=
+comment6.target=void\ eat()
+comment6.text=\r\n\ eat\ -\ the\ Snake\ actor\ remove\ the\ Pig\ actor\ on\ contact\ and\ plays\ the\ "lose"\ sound.\r\n
+numComments=7

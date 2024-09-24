@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pig
+comment0.text=\r\n\ The\ payable\ actor.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Crab\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ moveAndTurn()
+comment2.text=\r\n\ moveAndTurn\ -\ the\ pig\ move\ whenever\ you\ press\ one\ of\ the\ "awsd"\ keys.\r\n
+comment3.params=
+comment3.target=void\ eat()
+comment3.text=\r\n\ eat\ -\ the\ Pig\ actor\ remove\ the\ Burgers\ actor\ on\ contact\ and\ plays\ the\ "eating"\ sound.\r\n
+comment4.params=
+comment4.target=boolean\ isGameWon()
+comment4.text=\r\n\ isGameWon\ -\ checks\ if\ all\ the\ Burgers\ are\ gone.\r\n
+comment5.params=
+comment5.target=void\ transitionToWinnerScreen()
+comment5.text=\r\n\ transitionToWinnerScreen\ -\ transitions\ from\ PigWorld\ to\ WinnerScreen.\r\n
+numComments=6
